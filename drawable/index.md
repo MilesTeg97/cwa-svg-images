@@ -75,4 +75,4 @@
 ![xx](ic_test_result_step_done.svg)
 ![xx](ic_test_result_step_invalid.svg)
 ![xx](ic_test_result_step_waiting.svg)
-ic_test_result_step_warning.svg
+![xx](ic_test_result_step_warning.svg)
